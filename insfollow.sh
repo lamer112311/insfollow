@@ -23,9 +23,9 @@ echo -e "\e[1;91m  ║ \e[1;92m│ │ │└──┐\e[1;91m╠═╣ \e[1;92m
 echo -e "\e[1;91m  ║ \e[1;92m┘ └─┘└──┘\e[1;91m║   \e[1;92m└──┘┴──┘┴──┘└──┘└─┴─┘"
 echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩"
 echo ""
-echo -e "\e[1;91m [+] YouTube: \e[1;92mTermuxProfessorYT"
+echo -e "\e[1;91m [+] Channel: \e[1;92m@Cyber_Puffin"
 echo -e "\e[1;91m [+] Github: \e[1;92mtermuxprofessor"
-echo -e "\e[1;91m [+] Instagram: \e[1;92mtermuxprofessor\e[1;97r"
+echo -e "\e[1;91m [+] Telegram: \e[1;92m@lamer112311\e[1;97r"
 echo ""
 
 }
