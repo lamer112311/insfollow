@@ -17,7 +17,7 @@ Original repositoty: https://github.com/termuxprofessor/insfollow
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/insfollow`
+`$ git clone https://github.com/lamer112311/insfollow`
 
 `$ cd insfollow`
 
